@@ -1,3 +1,3 @@
 # first-repo
 
-Hi, my name i Hashwanth Gogineni and i am 22.
+Hi, my name is Hashwanth Gogineni and i am 22.
